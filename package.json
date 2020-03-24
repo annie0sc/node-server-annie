@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "First server-side program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annie0sc/node-server-annie.git"
+  },
+  "author": "Annie Chandolu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annie0sc/node-server-annie/issues"
+  },
+  "homepage": "https://github.com/annie0sc/node-server-annie#readme"
+}
